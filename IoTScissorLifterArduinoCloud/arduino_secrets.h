@@ -1,0 +1,3 @@
+#define SECRET_DEVICE_KEY "ra?zsZNE1r#pXu?U6t97889Id"
+#define SECRET_OPTIONAL_PASS "8860055120"
+#define SECRET_SSID "FuturisticIOx"
